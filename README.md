@@ -1,7 +1,7 @@
 # Introduction :wave:
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io%2Fhikmal-falah.com&down_message=%F0%9F%A4%A9&down_color=ffb000&style=flat-square&labelColor=ffb000&color=ffb000)](https://hikmal-falah.com)
-[![](https://visitcount.itsvg.in/api?id=Superior231&icon=5&color=12)](https://visitcount.itsvg.in)
+[![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fhikmal-falah.com)](https://hikmal-falah.com)
+![Visitors Count](https://komarev.com/ghpvc/?username=Superior231&label=visitors&style=for-the-badge)
 
 # Short Biography
 Hi there! 👋 I'm Hikmal Falah Agung Maulana<br>

@@ -1,7 +1,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io%2Fhikmal-falah.com&down_message=%F0%9F%A4%A9&down_color=lightgrey&style=flat-square&labelColor=161716&color=e5e4e4)
 [![](https://visitcount.itsvg.in/api?id=Superior231&icon=5&color=12)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# Hi there! 👋
 Hi there! 👋 I'm Hikmal Falah Agung Maulana<br>I'm a Full Stack Web Developer dedicated to creating reliable and scalable web applications. My coding journey started right after graduating from high school, and I began to deepen my programming skills not only in college but also through online resources like YouTube and various programming courses. In my free time, I enjoy listening to music and playing games.<br><br>🌍 Born and raised in Slawi, Central Java, Indonesia.<br>🎓 Study: I study at Pancasakti Tegal University, where I continue to grow my skills in web development.<br>💻 Web Development is my specialty, working across the full stack to deliver efficient and user-friendly solutions.<br>📚 I continuously learn new technologies through online courses, tutorials, and staying updated with industry trends.<br>Let's connect and create something amazing together! ✨
 
 

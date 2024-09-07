@@ -1,6 +1,6 @@
 # Introduction :wave:
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io%2Fhikmal-falah.com&down_message=%F0%9F%A4%A9&down_color=ffb000&style=flat-square&labelColor=161716&color=e5e4e4)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fshields.io%2Fhikmal-falah.com&down_message=%F0%9F%A4%A9&down_color=161716&style=flat-square&labelColor=161716&color=161716)
 [![](https://visitcount.itsvg.in/api?id=Superior231&icon=5&color=12)](https://visitcount.itsvg.in)
 
 # Short Biography

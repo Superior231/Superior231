@@ -7,7 +7,7 @@
 
 Hi there! 👋 I'm Hikmal Falah Agung Maulana<br>
 I'm a Full Stack Web Developer dedicated to creating reliable and scalable web applications. My coding journey started right after graduating from high school, and I began to deepen my programming skills not only in college but also through online resources like YouTube and various programming courses. In my free time, I enjoy listening to music and playing games.<br><br>
-🌍 Born and raised in Slawi, Central Java, Indonesia.<br>
+🌍 Born and raised in Tegal, Central Java, Indonesia.<br>
 🎓 Study: I study at [**Pancasakti University Tegal**](https://www.upstegal.ac.id/), where I continue to grow my skills in web development.<br>
 💻 Web Development is my specialty, working across the full stack to deliver efficient and user-friendly solutions.<br>
 📚 I continuously learn new technologies through online courses, tutorials, and staying updated with industry trends.<br>

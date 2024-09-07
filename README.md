@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer dedicated to creating reliable and scalable web a
 🌍 Born and raised in Slawi, Central Java, Indonesia.<br>
 🎓 Study: I study at [**Pancasakti University Tegal**](https://www.upstegal.ac.id/), where I continue to grow my skills in web development.<br>
 💻 Web Development is my specialty, working across the full stack to deliver efficient and user-friendly solutions.<br>
-📚 I continuously learn new technologies through online courses, tutorials, and staying updated with industry trends.<br><br>
+📚 I continuously learn new technologies through online courses, tutorials, and staying updated with industry trends.<br>
 
 Let's connect and create something amazing together! ✨
 

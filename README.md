@@ -5,9 +5,9 @@
 
 # Short Biography
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://raw.githubusercontent.com/Superior231/Superior231/master/name.svg" alt="Hikmal Falah Agung Maulana" />
-</h1>
+</h2>
 
 Hi there! 👋 I'm Hikmal Falah Agung Maulana<br>
 I'm a Full Stack Web Developer dedicated to creating reliable and scalable web applications. My coding journey started right after graduating from high school, and I began to deepen my programming skills not only in college but also through online resources like YouTube and various programming courses. In my free time, I enjoy listening to music and playing games.<br><br>

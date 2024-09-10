@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fhikmal-falah.com)](https://hikmal-falah.com)
 ![Visitors Count](https://komarev.com/ghpvc/?username=Superior231&label=visitors&style=for-the-badge)
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Superior231/Superior231/main/name.svg" alt="Hikmal Falah Agung Maulana" />
-</h1>
 ## Short Biography
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Superior231/Superior231/main/name.svg" alt="Hikmal Falah Agung Maulana" />
+</p>
 
 Hi there! 👋 I'm Hikmal Falah Agung Maulana<br>
 I'm a Full Stack Web Developer dedicated to creating reliable and scalable web applications. My coding journey started right after graduating from high school, and I began to deepen my programming skills not only in college but also through online resources like YouTube and various programming courses. In my free time, I enjoy listening to music and playing games.<br><br>

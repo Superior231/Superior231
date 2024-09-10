@@ -28,6 +28,6 @@ Let's connect and create something amazing together! ✨
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Superior231&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
+<footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</footer>

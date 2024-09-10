@@ -5,7 +5,7 @@
 
 ## Short Biography
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Superior231/Superior231/master/name.svg" alt="Hikmal Falah Agung Maulana" />
+  <img src="https://raw.githubusercontent.com/Superior231/Superior231/main/name.svg" alt="Hikmal Falah Agung Maulana" />
 </h1>
 
 Hi there! 👋 I'm Hikmal Falah Agung Maulana<br>

@@ -4,7 +4,6 @@
 ![Visitors Count](https://komarev.com/ghpvc/?username=Superior231&label=visitors&style=for-the-badge)
 
 ## Short Biography
-
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Superior231/Superior231/master/name.svg" alt="Hikmal Falah Agung Maulana" />
 </h1>

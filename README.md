@@ -28,10 +28,10 @@ Let's connect and create something amazing together! ✨
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/Superior231/Superior231">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
 <a href="https://github.com/Superior231/Superior231">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
 </a>
 
 <footer align="center">

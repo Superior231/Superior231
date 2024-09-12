@@ -26,6 +26,13 @@ Let's connect and create something amazing together! ✨
 ![](https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<a href="https://github.com/Superior231/Superior231">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
+</a>
+<a href="https://github.com/Superior231/Superior231">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</a>
+
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </footer>

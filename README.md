@@ -27,7 +27,7 @@ Let's connect and create something amazing together! ✨
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
 </div>

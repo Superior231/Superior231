@@ -15,10 +15,6 @@ I'm a Full Stack Web Developer dedicated to creating reliable and scalable web a
 📚 I continuously learn new technologies through online courses, tutorials, and staying updated with industry trends.<br>
 
 Let's connect and create something amazing together! ✨
-
-
-## 🌐 Socials:
-
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hikmal.falah.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikmalfalah231) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmal-falah-agung-maulana) 
 
 ## 💻 Tech Stack:

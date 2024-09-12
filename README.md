@@ -27,12 +27,12 @@ Let's connect and create something amazing together! ✨
 
 ## 📊 GitHub Stats:
 
-<a href="https://github.com/Superior231/Superior231" style="text-decoration: none;">
+<figure>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</a>
-<a href="https://github.com/Superior231/Superior231" style="text-decoration: none;">
+</figure>
+<figure>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
-</a>
+</figure>
 
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

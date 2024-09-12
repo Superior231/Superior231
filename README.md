@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/Superior231/Superior231/main/name.svg" alt="Hikmal Falah Agung Maulana" />
 </p>
 
-<p style="font-size: 100px;">Hi there! 👋 I'm Hikmal Falah Agung Maulana</p><br>
+### **Hi there! 👋 I'm Hikmal Falah Agung Maulana**<br>
 I'm a Full Stack Web Developer dedicated to creating reliable and scalable web applications. My coding journey started right after graduating from high school, and I began to deepen my programming skills not only in college but also through online resources like YouTube and various programming courses. In my free time, I enjoy listening to music and playing games.<br><br>
 🌍 Born and raised in Tegal, Central Java, Indonesia.<br>
 🎓 Study: I study at [**Pancasakti University Tegal**](https://www.upstegal.ac.id/), where I continue to grow my skills in web development.<br>

@@ -20,7 +20,7 @@ Let's connect and create something amazing together! ✨<br>
 
 ---
 
-### My Skills
+## My Skills
 
 <details>
   <summary><b>Languages</b></summary>
@@ -36,7 +36,7 @@ Let's connect and create something amazing together! ✨<br>
   [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,jquery,postman,figma&perline=6)](https://skillicons.dev)
 </details>
 
-# GitHub Stats:
+## GitHub Stats:
 
 <div style="display: flex;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />

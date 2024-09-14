@@ -22,14 +22,14 @@ Let's connect and create something amazing together! ✨<br>
 ## My Skills
 
 <details>
-  <summary><b>Languages</b></summary>
+  <summary>**Languages**</summary>
   <br/>
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,py,bootstrap,laravel&perline=6)](https://skillicons.dev)
 </details>
 
 <details>
-  <summary><b>Others</b></summary>
+  <summary>**Others**</summary>
   <br/>
 
   [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,jquery,postman,figma&perline=6)](https://skillicons.dev)

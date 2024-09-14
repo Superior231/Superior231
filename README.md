@@ -18,21 +18,49 @@ Let's connect and create something amazing together! ✨<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hikmal.falah.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikmalfalah231) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmal-falah-agung-maulana)
 
+## Skills
+
+<p>Languages</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,py" />
+  </a>
+</p>
+
+<p>Frameworks</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel" />
+  </a>
+</p>
+
+<p>Databases</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<p>CI/CD VCS</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<p>Others</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery,postman,figma" />
+  </a>
+</p>
+
 ## GitHub Stats:
 
 <div style="display: flex;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
 </div>
-
-## Skills
-
-<p>Familiar Technology</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,python" />
-  </a>
-</p>
 
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

@@ -21,39 +21,29 @@ Let's connect and create something amazing together! ✨<br>
 ## Skills
 
 <p>Languages</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,py" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,py" />
+</a>
 
 <p>Frameworks</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,laravel" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=bootstrap,laravel" />
+</a>
 
 <p>Databases</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 
 <p>CI/CD VCS</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</a>
 
 <p>Others</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,postman,figma" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=jquery,postman,figma" />
+</a>
 
 ## GitHub Stats:
 

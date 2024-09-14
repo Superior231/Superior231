@@ -22,23 +22,11 @@ Let's connect and create something amazing together! ✨<br>
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,py&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,py,bootstrap,laravel&perline=6)](https://skillicons.dev)
 
-<p>Databases</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</a>
+### Others
 
-<p>CI/CD VCS</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</a>
-
-<p>Others</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=jquery,postman,figma" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,jquery,postman,figma&perline=6)](https://skillicons.dev)
 
 ## GitHub Stats:
 

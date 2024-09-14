@@ -18,7 +18,7 @@ Let's connect and create something amazing together! ✨<br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hikmal.falah.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikmalfalah231) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmal-falah-agung-maulana)
 
-## Skills
+# Skills
 
 ### Languages
 
@@ -28,7 +28,7 @@ Let's connect and create something amazing together! ✨<br>
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,jquery,postman,figma&perline=6)](https://skillicons.dev)
 
-## GitHub Stats:
+# GitHub Stats:
 
 <div style="display: flex;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Superior231&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />

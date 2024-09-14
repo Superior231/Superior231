@@ -20,7 +20,7 @@ Let's connect and create something amazing together! ✨<br>
 
 ---
 
-### My Skills
+## My Skills
 <details>
   <summary><b>Languages</b></summary>
   <br/>

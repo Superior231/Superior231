@@ -20,7 +20,7 @@ Let's connect and create something amazing together! ✨<br>
 
 ---
 
-## My Skills
+<p style="font-size: 20px;">My Skills</p>
 <details>
   <summary><b>Languages</b></summary>
   <br/>

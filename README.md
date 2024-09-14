@@ -21,11 +21,8 @@ Let's connect and create something amazing together! ✨<br>
 ## Skills
 
 <p>Languages and Frameworks</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,py,bootstrap,laravel" />
-</a>
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,py&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&perline=2)](https://skillicons.dev)
 
 <p>Databases</p>
 <a href="https://skillicons.dev">

@@ -20,7 +20,7 @@ Let's connect and create something amazing together! ✨<br>
 
 ## Skills
 
-<p>Languages and Frameworks</p>
+Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,py&perline=6)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&perline=2)](https://skillicons.dev)
 

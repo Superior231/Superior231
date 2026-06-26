@@ -1,6 +1,6 @@
 # Introduction :wave:
 
-[![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fhikmal-falah.com)](https://hikmal-falah.com)
+[![Website](https://img.shields.io/website?label=Website&logo=windows-terminal&labelColor=white&logoColor=grey&style=for-the-badge&down_color=red&down_message=Down&up_color=%2304AA6D&up_message=Up&url=https%3A%2F%2Fhikmalfalah.page.gd)](https://hikmalfalah.page.gd/)
 ![Visitors Count](https://komarev.com/ghpvc/?username=Superior231&label=visitors&style=for-the-badge)
 
 <p align="center">

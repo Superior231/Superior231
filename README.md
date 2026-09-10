@@ -16,7 +16,11 @@ I'm a Full Stack Web Developer dedicated to creating reliable and scalable web a
 
 Let's connect and create something amazing together! ✨<br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hikmal.falah.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikmalfalah_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmal-falah-agung-maulana)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Superior231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmal-falah-agung-maulana)
+[![Email](https://img.shields.io/badge/Email-%234285F4.svg?logo=google&logoColor=white)](mailto:ikmalfalah@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hikmal.falah.9)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hikmalfalah_)
 
 
 ## My Skills

@@ -43,8 +43,8 @@ Let's connect and create something amazing together! ✨<br>
 ## GitHub Stats:
 
 <p align="center">
-    <img src="https://github-stats-extended.vercel.app/api?username=Superior231&include_all_commits=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Superior231&langs_count=4&theme=vision-friendly-dark" alt="Top Languages" height="165" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Superior231&include_all_commits=true&theme=vision-friendly-dark" alt="GitHub Stats" height="200" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Superior231&langs_count=4&theme=vision-friendly-dark" alt="Top Languages" height="200" />
 </p>
 
 <footer align="center">

@@ -29,7 +29,7 @@ Let's connect and create something amazing together! ✨<br>
   <summary><b>Languages</b></summary>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,py,bootstrap,tailwind,laravel,tensorflow,flask&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,cpp,bootstrap,tailwind,laravel,tensorflow,flask&perline=6)](https://skillicons.dev)
 </details>
 
 <details>

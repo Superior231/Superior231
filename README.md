@@ -36,7 +36,7 @@ Let's connect and create something amazing together! ✨<br>
   <summary><b>Others</b></summary>
   <br/>
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,jquery,postman,figma&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,docker,jquery,postman,figma&perline=6)](https://skillicons.dev)
 </details>
 
 
